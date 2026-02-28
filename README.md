@@ -11,7 +11,7 @@ O objetivo é construir e comparar modelos estatísticos para entender qual comb
 4.  **Comparação de Performance**
 
 Abaixo está o PairPlot gerado para identificar correlações entre as variáveis:
-![PairPlot de Análise de Hotéis](imagens/pairplot_analise.png)
+![PairPlot de Análise de Hotéis](pairplot_analise.png)
 
 ## 📊 Metodologia e Modelos
 
